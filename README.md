@@ -52,7 +52,7 @@ jupyter notebook air_quality_notebook.ipynb
 ### 4. Start the FastAPI backend
 
 ```bash
-uvicorn api:app --reload --port 8000
+uvicorn api:app
 ```
 
 API docs available at: http://localhost:8000/docs
